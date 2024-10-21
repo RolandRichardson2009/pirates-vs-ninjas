@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RD\\Desktop\\Pirates vs Ninjas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79BF6574-D406-45E9-92C0-7D58F6658069}|Pirates vs Ninjas.vcxproj|C:\\Users\\RD\\Desktop\\Pirates vs Ninjas\\Pirates vs Ninjas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79BF6574-D406-45E9-92C0-7D58F6658069}|Pirates vs Ninjas.vcxproj|solutionrelative:Pirates vs Ninjas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pirates vs Ninjas.cpp",
+              "DocumentMoniker": "C:\\Users\\RD\\Desktop\\Pirates vs Ninjas\\Pirates vs Ninjas.cpp",
+              "RelativeDocumentMoniker": "Pirates vs Ninjas.cpp",
+              "ToolTip": "C:\\Users\\RD\\Desktop\\Pirates vs Ninjas\\Pirates vs Ninjas.cpp",
+              "RelativeToolTip": "Pirates vs Ninjas.cpp",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T04:18:00.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
